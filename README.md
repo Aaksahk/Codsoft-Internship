@@ -3,7 +3,25 @@ Web Development Intern
 <p>
   Welcome to the Web Development Internship at codsoft! This repository serves as a guide to help you kick-start your journey as a web development intern. Here, you'll find essential information about the program, projects, tools, and resources.
 </p>
+  #############################TASK-1: PORTFOLIO WEBSITE #####################
+ Creating a personal portfolio using CSS and HTML is a popular beginner web development project.
+ 
+Header Section: Add your name or a logo at the top.
+Optionally, include a brief introduction or tagline.
 
+About Section: Insert an image of yourself.
+Write a short bio highlighting your skills and experience.
+
+Skills Section: List your key skills or areas of expertise.
+
+Projects Section: Showcase samples of your work or projects.
+Include project titles, descriptions, and images.
+
+Resume Section: Provide a link to download your resume in PDF format.
+
+Contact Section: Include your contact information, such as email address and phone
+
+number.
 ## Table of Contents
 
 - [👋 Introduction](#-introduction)
@@ -48,7 +66,6 @@ During your internship, you'll have the opportunity to work on a range of projec
 We're invested in your growth. Regular feedback sessions will help you track your progress and areas for improvement. Don't hesitate to ask for help or guidance whenever needed.
 
 ## 📅 Conclusion
-
 Congratulations on becoming a part of the Web Development Internship at codsoft! We believe that your dedication and contributions will play a vital role in the success of our projects. Remember, learning is a continuous journey, and we're here to support you every step of the way.
 
 Happy coding!
