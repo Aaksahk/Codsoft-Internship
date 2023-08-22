@@ -3,7 +3,7 @@ Web Development Intern
 <p>
   Welcome to the Web Development Internship at codsoft! This repository serves as a guide to help you kick-start your journey as a web development intern. Here, you'll find essential information about the program, projects, tools, and resources.
 </p>
-  #############################TASK-1: PORTFOLIO WEBSITE #####################
+  #############################TASK-1: PORTFOLIO WEBSITE ############################
  Creating a personal portfolio using CSS and HTML is a popular beginner web development project.
  
 Header Section: Add your name or a logo at the top.
@@ -20,8 +20,19 @@ Include project titles, descriptions, and images.
 Resume Section: Provide a link to download your resume in PDF format.
 
 Contact Section: Include your contact information, such as email address and phone
-
 number.
+#############################TASK-2: LANDING PAGE #####################
+A landing page is an ideal web development project for beginners. It requires basic
+knowledge of HTML and CSS. Through this project, I will learn to create columns, divide
+sections, arrange items, and add headers and footers. The most important aspect is
+unleashing your creativity to design an impressive page. Pay attention to alignments,
+padding, color palette, boxes, and other elements. 
+
+#############################TASK-3: CALCULATOR #######################
+To create a basic calculator using CSS, HTML, and JavaScript, I WILL'll implement an
+interactive interface with buttons for addition, subtraction, multiplication, and division
+operations. 
+
 ## Table of Contents
 
 - [👋 Introduction](#-introduction)
