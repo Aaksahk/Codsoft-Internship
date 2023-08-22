@@ -21,6 +21,7 @@ Resume Section: Provide a link to download your resume in PDF format.
 
 Contact Section: Include your contact information, such as email address and phone
 number.
+
 #############################TASK-2: LANDING PAGE #####################
 A landing page is an ideal web development project for beginners. It requires basic
 knowledge of HTML and CSS. Through this project, I will learn to create columns, divide
